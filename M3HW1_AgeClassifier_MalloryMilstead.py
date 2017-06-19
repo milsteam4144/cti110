@@ -6,6 +6,7 @@
 
 # This program gets an age from the user and determines their lifestage.
 
+
 #Get age from the user.
 age = int(input('Enter your age:'))
 
